@@ -1,6 +1,14 @@
-## Hi there 👋
+![Еmаil](https://img.shields.io/badge/Еmаil-%20dееd.уru@gmаil.cоm-fedcba.svg?logo=gmail)</br>
+![Tеlеgrаm](https://img.shields.io/badge/Tеlеgrаm-%20msbоtо-fedcba.svg?logo=telegram)
+___
+
+<a href="https://iproyal.com/?r=residential_proxies" target="_blank"><img src="https://dashboard.iproyal.com/img/b/468_2.jpg" alt="https://iproyal.com/"></a></br>
+![Iproyal-Residential-Proxies-50%-OFF-Coupon](https://img.shields.io/badge/IPRoyal_residential_proxies_50%25_off_coupon-DЕЕDY50-red.svg)
+
 
 <!--
+## Hi there 👋
+
 **deedy5/deedy5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
