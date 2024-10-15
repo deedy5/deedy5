@@ -3,7 +3,7 @@
 ___
 
 <a href="https://iproyal.com/?r=residential_proxies" target="_blank"><img src="https://dashboard.iproyal.com/img/b/468_2.jpg" alt="https://iproyal.com/"></a></br>
-![Iproyal-Residential-Proxies-50%-OFF-Coupon](https://img.shields.io/badge/IPRoyal_residential_proxies_50%25_off_coupon-DЕЕDY50-red.svg)
+![Iproyal-Residential-Proxies-50%-OFF-Coupon](https://img.shields.io/badge/IPRoyal_Residential_Proxies_50%25_off_coupon_(3.5$/GB)-DЕЕDY50-red.svg)
 
 
 <!--
