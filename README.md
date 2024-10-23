@@ -1,6 +1,9 @@
-## Hi there 👋
+![Еmаil](https://img.shields.io/badge/Еmаil-%20dееd.уru@gmаil.cоm-fedcba.svg?logo=gmail)</br>
+![Tеlеgrаm](https://img.shields.io/badge/Tеlеgrаm-%20msbоtо-fedcba.svg?logo=telegram)
 
 <!--
+## Hi there 👋
+
 **deedy5/deedy5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
