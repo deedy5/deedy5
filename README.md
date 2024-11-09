@@ -1,6 +1,9 @@
 ![Еmаil](https://img.shields.io/badge/Еmаil-%20dееd.уru@gmаil.cоm-fedcba.svg?logo=gmail)</br>
 ![Tеlеgrаm](https://img.shields.io/badge/Tеlеgrаm-%20msbоtо-fedcba.svg?logo=telegram)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=deedy5&show_icons=true)</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deedy5&layout=compact)
+
 <!--
 ## Hi there 👋
 
