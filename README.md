@@ -1,7 +1,4 @@
-![Еmаil](https://img.shields.io/badge/Еmаil-%20dееd.уru@gmаil.cоm-fedcba.svg?logo=gmail)</br>
-![Tеlеgrаm](https://img.shields.io/badge/Tеlеgrаm-%20msbоtо-fedcba.svg?logo=telegram)</br>
-![Profile views](https://komarev.com/ghpvc/?username=deedy5&label=)
-
+![Еmаil](https://img.shields.io/badge/Еmаil-%20dееd.уru@gmаil.cоm-fedcba.svg?logo=gmail) ![Tеlеgrаm](https://img.shields.io/badge/Tеlеgrаm-%20msbоtо-fedcba.svg?logo=telegram) ![Profile views](https://komarev.com/ghpvc/?username=deedy5)
 <!--
 ## Hi there 👋
 
