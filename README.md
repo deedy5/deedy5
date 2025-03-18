@@ -1,6 +1,10 @@
-## Hi there 👋
+I enjoy optimizing Python performance by identifying bottlenecks and improving logic or creating Rust libraries to boost speed.</br>
+I'm also passionate about data collection and processing, and have experience with building bots, parsers, and automation tools. Let's collaborate on enhancing your Python projects!</br>
+![Еmаil](https://img.shields.io/badge/Еmаil-%20dееd.уru@gmаil.cоm-fedcba.svg?logo=gmail) ![Telegram](https://img.shields.io/badge/Telegram-msbоtо-fedcba.svg?logo=telegram) 
 
 <!--
+## Hi there 👋
+
 **deedy5/deedy5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
