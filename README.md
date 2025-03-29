@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Еmаil](https://img.shields.io/badge/Еmаil-%20dееd.уru@gmаil.cоm-fedcba.svg?logo=gmail)
 <!--
 **deedy5/deedy5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
